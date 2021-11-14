@@ -8,7 +8,7 @@
 # Language used
 - python
 # Libraries used
--Matplotlib
--Numpy
--Random
--Timedata
+- Matplotlib
+- Numpy
+- Random
+- Timedata
