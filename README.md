@@ -5,5 +5,10 @@
  - Line coding schemes implemented: NRZ-L, NRZ-I, Manchester,
  - Differential Manchester, AMI
  - Scrambling schemes: B8ZS, HDB3
-# Language used: Python
-# Libraries used: Matplotlib,Numpy,Random,Timedata
+# Language used
+- python
+# Libraries used
+-Matplotlib
+-Numpy
+-Random
+-Timedata
